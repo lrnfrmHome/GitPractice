@@ -3,5 +3,5 @@ node_js:
   - "iojs"
   - "6"
 "scripts": {
-  "app.js": ""
+  "test": "app.js"
 }
